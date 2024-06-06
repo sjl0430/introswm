@@ -1,0 +1,111 @@
+.layspan {
+    color: #505050;
+    font-size: 18px;
+}
+
+.laydiv {
+    width: 450px;
+    margin: 0 auto;
+    margin-top: 4rem;
+    border: 1px solid #353535;
+    border-radius: 15px;
+    background-color: #353535;
+    padding: 1rem;
+}
+
+.homediv {
+    width: 190px;
+    margin: auto;
+    margin-top: 4rem;
+    background-color: #353535;
+    border: 1px solid #353535;
+    border-radius: 15px;
+    padding: 1rem;
+}
+
+.homebt1 {
+    width: auto;
+    display: flex;
+    margin: auto;
+    font-size: 20px;
+    font-weight: 1000;
+    color: #353535;
+    background-color: #ff0033;
+    border: 1px solid #ff0033;
+    border-radius: 5px;
+}
+
+.homebt2 {
+    width: auto;
+    display: flex;
+    margin: auto;
+    font-size: 20px;
+    font-weight: 1000;
+    color: #353535;
+    background-color: #ffcc33;
+    border: 1px solid #ffcc33;
+    border-radius: 5px;
+}
+
+.homebt3 {
+    width: auto;
+    display: flex;
+    margin: auto;
+    font-size: 20px;
+    font-weight: 1000;
+    color: #353535;
+    background-color: #3399ff;
+    border: 1px solid #3399ff;
+    border-radius: 5px;
+}
+
+.midimg {
+    display: block;
+    margin: auto;
+}
+
+.midc {
+    font-size: 28px;
+    width: 120px;
+    border: 5px solid white;
+    display: block;
+    margin: auto;
+}
+
+.objc {
+    font-size: 28px;
+    width: 240px;
+    border: 5px solid white;
+    display: block;
+    margin: auto;
+}
+
+.profsul {
+    width: 140px;
+    margin: 0 auto;
+    margin-top: 3rem;
+    border: 3px solid black;
+    border-radius: 15px;
+    padding: 2rem;
+}
+
+.profh {
+    text-align: center;
+}
+
+.profp {
+    text-align: center;
+    font-weight: 1500;
+    font-size: 18px;
+}
+
+.secr {
+    text-align: center;
+    background-color: red;
+    font-size: 125px;
+    color: white;
+    width: 750px;
+    border-radius: 15px;
+    border: 3px solid red;
+    margin: 0 auto;
+}
